@@ -1,6 +1,7 @@
 {
   "version": "1.0.0",
   "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.0/PCAutoPilot_Setup_1.0.0.exe",
+  "sha256": "1efa8350244d6f8dfbfd9433d5a449530a1cec2f0030b1760d9febe2251b8f3d",
   "release_notes": "Initial release of PC AutoPilot.",
-  "released": "2026-04-24"
+  "released": "2026-06-02"
 }
