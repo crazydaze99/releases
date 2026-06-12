@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.0/PCAutoPilot_Setup_1.0.0.exe",
-  "sha256": "c3f7f6ce6e7ab1d664183d149fbc314ed3a3333306e661496de4ea7f38879cd8",
-  "released": "2026-06-11",
-  "release_notes": "Initial release of PC AutoPilot."
+  "version": "1.0.1",
+  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.1/PCAutoPilot_Setup_1.0.1.exe",
+  "sha256": "352d3588a3158bc65946848971e39c505529c779751781a67fa4d8dbd72b4d49",
+  "release_notes": "Bug fixes and reliability improvements: real-time Watch Folder fixed, premium gating corrections, updater hardening, UI accuracy fixes.",
+  "released": "2026-06-12"
 }
