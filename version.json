@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.1/PCAutoPilot_Setup_1.0.1.exe",
-  "sha256": "352d3588a3158bc65946848971e39c505529c779751781a67fa4d8dbd72b4d49",
-  "release_notes": "Bug fixes and reliability improvements: real-time Watch Folder fixed, premium gating corrections, updater hardening, UI accuracy fixes.",
-  "released": "2026-06-12"
+  "version": "1.0.2",
+  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.2/PCAutoPilot_Setup_1.0.2.exe",
+  "sha256": "cc8af0198373a49444418ee09f8bd72fc1647f802dcac387a19d10b02dba0756",
+  "release_notes": "Updater reliability fix: supports GitHub new release-asset host so in-app updates download correctly. Includes all v1.0.1 fixes.",
+  "released": "2026-06-15"
 }
