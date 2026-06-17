@@ -1,7 +1,1 @@
-{
-  "version": "1.0.2",
-  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.2/PCAutoPilot_Setup_1.0.2.exe",
-  "sha256": "cc8af0198373a49444418ee09f8bd72fc1647f802dcac387a19d10b02dba0756",
-  "release_notes": "Updater reliability fix: supports GitHub new release-asset host so in-app updates download correctly. Includes all v1.0.1 fixes.",
-  "released": "2026-06-15"
-}
+{"version": "1.0.3", "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.3/PCAutoPilot_Setup_1.0.3.exe", "sha256": "16f50cb8fe3adaa9bfb1a2097496c1bbab6b855dc34579d6575757ac83fd8187", "release_notes": "License activation reliability fix: the app now verifies Keygen's TLS certificate against the bundled CA bundle instead of the Windows system store, so activation works on freshly-imaged or locked-down machines (fixes a certificate verify failed error on a clean install). Includes all v1.0.2 fixes.", "released": "2026-06-17"}
