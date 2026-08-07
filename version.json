@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.5/PCAutoPilot_Setup_1.0.5.exe",
-  "sha256": "2df5e1b37ac41434c0ddc0498a28fe87a33bad14f52bb7f27508c084625c4d04",
-  "release_notes": "Safer duplicate finder: system, app, cloud-synced and backup files are now left out of scans, and you're warned before any deletion that can't go to the Recycle Bin (oversized files, removable drives, or when the bin is turned off). Automatic macros are now verified before they run - existing scheduled or triggered macros need to be opened and saved once to keep firing. Display fixes for high-DPI and scaled screens: the window fits properly, results windows are readable, and scrolling is faster. Health alerts no longer repeat when CPU and memory are both busy. Licence checks are more tolerant of hardware changes. Includes all v1.0.4 fixes.",
-  "released": "2026-08-01"
+  "version": "1.0.6",
+  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.6/PCAutoPilot_Setup_1.0.6.exe",
+  "sha256": "a096aefe0eb590285a9e90938da5a11da68e5d8c65f58ca6ef4225cbc6894858",
+  "release_notes": "Cleanup now shows how much of what it finds is locked by Windows or another app, instead of showing one total and quietly freeing less. You may see a smaller headline number than before - it is the more honest one, and nothing about the cleanup itself has changed. Results now list every category it touched, including ones it could not free anything from, and no longer describe a file Windows is holding open as an error. Desktop notifications are now drawn by PC AutoPilot itself, in a small pop-up in the corner of the screen, instead of going through a hidden background process. They no longer appear in the Windows notification centre. The first-run setup window, the Cleanup and Scan results windows and the pop-up dialogs now open centred, size themselves to their content, fit smaller screens, and fill the screen properly when maximised, including when you have made Windows text larger. Smaller download. Corrections to the licence agreement and the third-party notices file. Includes all v1.0.5 fixes.",
+  "released": "2026-08-06"
 }
