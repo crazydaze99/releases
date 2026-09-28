@@ -1,7 +1,7 @@
 {
-  "version": "1.0.11",
-  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.11/PCAutoPilot_Setup_1.0.11.exe",
-  "sha256": "e0168a49c47969c9b083e40c10924923d64daff8f4aa8a2f7957956333bf86e5",
-  "release_notes": "A small update.\n\nRefreshed trial reminders, with clearer pricing and a reminder of the 30-day money-back guarantee.\n\nIf you're trying PC AutoPilot, the day-7 reminder can now send you tips by email for the rest of your trial. Nothing is sent unless you type your address and tick the box, the app itself doesn't keep a copy, and you can unsubscribe any time.\n\nSmall fixes to the Duplicate Finder and Cleanup progress windows.",
-  "released": "2026-09-26"
+  "version": "1.0.12",
+  "download_url": "https://github.com/crazydaze99/releases/releases/download/v1.0.12/PCAutoPilot_Setup_1.0.12.exe",
+  "sha256": "4e4bf08f331278a3b322045bffb286b984cd7ea98ec5eae2c3cdd217cf2b2a89",
+  "release_notes": "A fixes update.\n\nFixed a rare error message that could appear right after an update or on first start, when antivirus briefly holds the app's settings file. If Windows blocks a settings save later on, you now get a clear note instead of an error.\n\n\"Launch on Windows startup\" now shows what Windows will actually do and respects your choice in Task Manager. Uninstalling now removes the startup entry.\n\nPrograms and Features now shows the right version after an in-app update.\n\nThe trial-ended and trial-reminder windows now fit smaller screens and higher display scaling.\n\nDuplicate Finder now keeps the original (\"photo.jpg\") rather than the copy (\"photo (2).jpg\") when both have the same date.\n\nMacro recording handles the Windows key and Esc correctly, and a macro that can't run on its own schedule now tells you so.",
+  "released": "2026-09-28"
 }
